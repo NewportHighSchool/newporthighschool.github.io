@@ -3,3 +3,4 @@ Development Notes
 10/3/18
    0.1 Created index.html page which showed after populating
    0.2 Added limited formatting
+   - changes are not instantaneous AND dot journaling notes notation is being used in Development Notes txt file
