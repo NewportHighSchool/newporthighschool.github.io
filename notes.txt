@@ -1,0 +1,5 @@
+Development Notes
+
+10/3/18
+   0.1 Created index.html page which showed after populating
+   0.2 Added limited formatting
