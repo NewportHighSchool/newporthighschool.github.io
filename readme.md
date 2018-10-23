@@ -1,5 +1,3 @@
-## Welcome to CHS CS Nearly Awesome List of Links
-
 ### [CHS CS Moodle](http://moodle.clevelandhighschool.org/)
 
 ### CHS
