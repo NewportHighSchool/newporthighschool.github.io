@@ -4,10 +4,9 @@
 
 ### CHS
 
--   [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
--   [Cleveland High School Bulletin] http://moodle.clevelandhighschool.org
+-   [Cleveland High School Bulletin] (https://www.pps.net/Page/8600)
 -   StudentVue
--   Bell Schedule
+-   [Bell Schedule] (https://www.pps.net/Page/6745)
 -   Cleveland Calendar
 -   Cleveland Highschool
 
