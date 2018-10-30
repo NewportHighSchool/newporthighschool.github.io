@@ -7,8 +7,10 @@
 
 -   [CHS](#CHS)
 -   [Python](#Python)
--   [HTML & CSS](#html+css)
+-   [HTML & CSS](#HTML+CSS)
 -   [Chrome Extensions](#chrome-extensions)
+-   [Other](#Other)
+-   [Github](#Github)
 
 
 ### CHS
