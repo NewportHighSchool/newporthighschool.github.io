@@ -22,7 +22,7 @@
 -   [Cleveland High School](https://www.pps.net/Domain/109)
 -   [Google Classroom](https://classroom.google.com/h)
 -   [Naviance](https://student.naviance.com/cleveland)
-
+-   [administrator contact information] (https://www.pps.net/Page/2085)
 ### Python 
 -   [Python w3schools Tutorial](https://www.w3schools.com/python/default.asp)
 -   [Processing Python Functions Reference](https://py.processing.org/reference/)
@@ -48,7 +48,9 @@
 -   [Codecademy](https://www.codecademy.com/)
 -   [Android Development Book](https://www.bignerdranch.com/books/android-programming/)
 -   [Foundations of Programming in JavaScript](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+
 ### Github
+- [How to Create a Pull Request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
 - [how to create a pull request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
 
 
