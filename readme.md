@@ -29,6 +29,8 @@
 -   [Real Python](https://realpython.com/)
 -   [A Real Python](https://media1.tenor.com/images/3fe51571ba1477be4d28db4fbb5a0c05/tenor.gif?itemid=6199080)
 -   [Web Developement Courses](https://www.theodinproject.com/home)
+-   [Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+-   [Python for Everybody](https://www.coursera.org/specializations/python)
 
 
 ### HTML+CSS
