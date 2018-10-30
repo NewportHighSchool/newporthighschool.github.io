@@ -18,5 +18,6 @@
 -   [Processing Python Functions Reference](https://py.processing.org/reference/)
 -   [Python Basics](https://anh.cs.luc.edu/331/notes/PythonBasics.pdf)
 
-
+### Other
+-   [Intern Supply](https://intern.supply/)
 
