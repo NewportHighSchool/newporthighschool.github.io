@@ -21,3 +21,7 @@
 ### HTML & CSS
 -   [HTML & CSS Tutorials](https://www.w3schools.com/html/default.asp)
 
+## Chrome Extensions
+- [Chrome Extension Getting Started Guide](https://developer.chrome.com/extensions/getstarted)
+
+
