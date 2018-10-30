@@ -9,7 +9,7 @@
 
 -   [CHS](#CHS)
 -   [Python](#Python)
--   [Html & CSS](#HTML-&-CSS)
+-   [HTML & CSS](#html+css)
 -   [Chrome Extensions](#chrome-extensions)
 
 
@@ -33,7 +33,7 @@
 -   [Web Developement Courses](https://www.theodinproject.com/home)
 
 
-### HTML & CSS
+### HTML+CSS
 -   [HTML & CSS Tutorials](https://www.w3schools.com/html/default.asp)
 
 ### Chrome Extensions
