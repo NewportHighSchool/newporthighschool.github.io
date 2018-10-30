@@ -48,6 +48,7 @@
 
 ### Alexa Tutorials
 -   [Learning Alexa with Codecademy](https://www.codecademy.com/learn/learn-alexa)
+- [Building Alexa Skills(YT)](https://www.youtube.com/watch?list=PL2KJmkHeYQTNwlZqLh_ptZhSNZf93e8Sp&v=1cx_I0kARnU)
 -   [Alexa Developer Page](https://developer.amazon.com/alexa)
 
 ### Other
