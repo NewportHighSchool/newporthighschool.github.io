@@ -16,6 +16,7 @@
 ### Python 
 -   [Python w3schools Tutorial](https://www.w3schools.com/python/default.asp)
 -   [Processing Python Functions Reference](https://py.processing.org/reference/)
+-   [Python Basics](https://anh.cs.luc.edu/331/notes/PythonBasics.pdf)
 
 
 
