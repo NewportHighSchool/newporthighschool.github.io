@@ -27,5 +27,6 @@
 ## Chrome Extensions
 - [Chrome Extension Getting Started Guide](https://developer.chrome.com/extensions/getstarted)
 
-
+### Other
+-   [Intern Supply](https://intern.supply/)
 
