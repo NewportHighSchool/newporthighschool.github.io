@@ -48,6 +48,7 @@
 
 ### Alexa Tutorials
 -   [Learning Alexa with Codecademy](https://www.codecademy.com/learn/learn-alexa)
+-   [Alexa Developer Page](https://developer.amazon.com/alexa)
 
 ### Other
 -   [Intern Supply](https://intern.supply/)
