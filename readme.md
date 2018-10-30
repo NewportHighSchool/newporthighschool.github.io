@@ -12,7 +12,9 @@
 -   [Other](#Other)
 -   [Github](#Github)
 
+
 ### CHS
+
 -   [Cleveland High School Bulletin](https://www.pps.net/Page/8600)
 -   [StudentVue](https://parent-portland.cascadetech.org/portland/)
 -   [Bell Schedule](https://www.pps.net/Page/6745)
@@ -20,7 +22,6 @@
 -   [Cleveland High School](https://www.pps.net/Domain/109)
 -   [Google Classroom](https://classroom.google.com/h)
 -   [Naviance](https://student.naviance.com/cleveland)
--   [Services](https://www.pps.net/domain/295)
 
 ### Python 
 -   [Python Basics](https://anh.cs.luc.edu/331/notes/PythonBasics.pdf)
@@ -36,6 +37,7 @@
 -   [Google Classroom Tutorials](https://developers.google.com/edu/python/)
 
 
+
 ### HTML+CSS
 -   [HTML & CSS Tutorials](https://www.w3schools.com/html/default.asp)
 
@@ -49,8 +51,6 @@
 
 ### Alexa Tutorials
 -   [Learning Alexa with Codecademy](https://www.codecademy.com/learn/learn-alexa)
-- [Building Alexa Skills(YT)](https://www.youtube.com/watch?list=PL2KJmkHeYQTNwlZqLh_ptZhSNZf93e8Sp&v=1cx_I0kARnU)
--   [Alexa Developer Page](https://developer.amazon.com/alexa)
 
 ### Other
 -   [Intern Supply](https://intern.supply/)
@@ -62,8 +62,19 @@
 - [how to create a pull request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
 - [Learn Git Branching](https://learngitbranching.js.org/)
 
+### Github
+- [How to create a Pull Request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
+- [How to use Git and Github video tutorials](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+- [How to Create a Pull Request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
+- [Learn Git Branching](https://learngitbranching.js.org/)
+- [Google Launchpad Accelerators](https://developers.google.com/programs/launchpad/accelerators/)
+-  [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
+- [how to create a pull request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
+
 ### Other
 -   [Alexa Skill](https://www.codecademy.com/learn/learn-alexa)
 -   [Intern Supply](https://intern.supply/)
 -   [Codecademy](https://www.codecademy.com/)
+-   [TED Talk About Learning](https://www.youtube.com/watch?v=5MgBikgcWnY)
+
 
