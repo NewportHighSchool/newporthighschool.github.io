@@ -24,6 +24,7 @@
 -   [Naviance](https://student.naviance.com/cleveland)
 
 ### Python 
+-   [Python Basics](https://anh.cs.luc.edu/331/notes/PythonBasics.pdf)
 -   [Python w3schools Tutorial](https://www.w3schools.com/python/default.asp)
 -   [Processing Python Functions Reference](https://py.processing.org/reference/)
 -   [Practical Python Project Exposure](https://pythonprogramming.net/)
@@ -31,7 +32,6 @@
 -   [Real Python](https://realpython.com/)
 -   [A Real Python](https://media1.tenor.com/images/3fe51571ba1477be4d28db4fbb5a0c05/tenor.gif?itemid=6199080)
 -   [Web Developement Courses](https://www.theodinproject.com/home)
--   [Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
 
 ### HTML+CSS
@@ -40,13 +40,11 @@
 ### Chrome Extensions
 - [Chrome Extension Getting Started Guide](https://developer.chrome.com/extensions/getstarted)
 
-### Alexa Tutorials
--   [Learning Alexa with Codecademy](https://www.codecademy.com/learn/learn-alexa)
-
 ### Other
 -   [Intern Supply](https://intern.supply/)
 -   [Codecademy](https://www.codecademy.com/)
--   [Android Development Book](https://www.bignerdranch.com/books/android-programming/)
+-   [Building Alexa Skills(YT)](https://www.youtube.com/watch?list=PL2KJmkHeYQTNwlZqLh_ptZhSNZf93e8Sp&v=1cx_I0kARnU)
+
 ### Github
 - [how to create a pull request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
 
