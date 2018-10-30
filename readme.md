@@ -24,6 +24,7 @@
 -   [Naviance](https://student.naviance.com/cleveland)
 -   [administrator contact information] (https://www.pps.net/Page/2085)
 ### Python 
+-   [Python Basics](https://anh.cs.luc.edu/331/notes/PythonBasics.pdf)
 -   [Python w3schools Tutorial](https://www.w3schools.com/python/default.asp)
 -   [Processing Python Functions Reference](https://py.processing.org/reference/)
 -   [Practical Python Project Exposure](https://pythonprogramming.net/)
@@ -43,9 +44,18 @@
 ### Other
 -   [Intern Supply](https://intern.supply/)
 -   [Codecademy](https://www.codecademy.com/)
+-   [Building Alexa Skills(YT)](https://www.youtube.com/watch?list=PL2KJmkHeYQTNwlZqLh_ptZhSNZf93e8Sp&v=1cx_I0kARnU)
+
+### Alexa Tutorials
+-   [Learning Alexa with Codecademy](https://www.codecademy.com/learn/learn-alexa)
+
+### Other
+-   [Intern Supply](https://intern.supply/)
+-   [Codecademy](https://www.codecademy.com/)
 -   [Android Development Book](https://www.bignerdranch.com/books/android-programming/)
 ### Github
+- [How to Create a Pull Request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
 - [how to create a pull request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
-
+- [Learn Git Branching](https://learngitbranching.js.org/)
 
 
