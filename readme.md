@@ -51,6 +51,7 @@
 
 ### Github
 - [how to create a pull request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
+- [Learn Git Branching](https://learngitbranching.js.org/)
 
 ### Other
 -   [Alexa Skill](https://www.codecademy.com/learn/learn-alexa)
