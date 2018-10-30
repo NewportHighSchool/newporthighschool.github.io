@@ -3,6 +3,13 @@
 
 ### [CHS CS Moodle](http://moodle.clevelandhighschool.org/)
 
+=======
+## Table of Contents
+
+-   [CHS](#CHS)
+-   [Python](#Python)
+-   [Html & CSS](#HTML-&-CSS)
+-   [Chrome Extensions](#chrome-extensions)
 
 ### CHS
 
@@ -21,6 +28,8 @@
 -   [Python Basics](https://anh.cs.luc.edu/331/notes/PythonBasics.pdf)
 -   [Real Python](https://realpython.com/)
 -   [A Real Python](https://media1.tenor.com/images/3fe51571ba1477be4d28db4fbb5a0c05/tenor.gif?itemid=6199080)
+-   [Web Developement Courses](https://www.theodinproject.com/home)
+
 
 ### HTML & CSS
 -   [HTML & CSS Tutorials](https://www.w3schools.com/html/default.asp)
