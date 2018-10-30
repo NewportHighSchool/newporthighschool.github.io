@@ -40,6 +40,9 @@
 ### Chrome Extensions
 - [Chrome Extension Getting Started Guide](https://developer.chrome.com/extensions/getstarted)
 
+### Alexa Tutorials
+-   [Learning Alexa with Codecademy](https://www.codecademy.com/learn/learn-alexa)
+
 ### Other
 -   [Intern Supply](https://intern.supply/)
 -   [Codecademy](https://www.codecademy.com/)
