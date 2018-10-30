@@ -44,8 +44,5 @@
 ### Github
 - [how to create a pull request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
 
-### Other
--   [Intern Supply](https://intern.supply/)
-
 
 
