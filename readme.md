@@ -43,7 +43,7 @@
 ### Other
 -   [Intern Supply](https://intern.supply/)
 -   [Codecademy](https://www.codecademy.com/)
-
+-   [Android Development Book](https://www.bignerdranch.com/books/android-programming/)
 ### Github
 - [how to create a pull request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
 
