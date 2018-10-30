@@ -31,7 +31,6 @@
 -   [Real Python](https://realpython.com/)
 -   [A Real Python](https://media1.tenor.com/images/3fe51571ba1477be4d28db4fbb5a0c05/tenor.gif?itemid=6199080)
 -   [Web Developement Courses](https://www.theodinproject.com/home)
--   [Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
 
 ### HTML+CSS
@@ -43,7 +42,8 @@
 ### Other
 -   [Intern Supply](https://intern.supply/)
 -   [Codecademy](https://www.codecademy.com/)
--   [Android Development Book](https://www.bignerdranch.com/books/android-programming/)
+-   [Google Launchpad Accelerators](https://developers.google.com/programs/launchpad/accelerators/)
+
 ### Github
 - [how to create a pull request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
 
