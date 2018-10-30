@@ -9,8 +9,8 @@
 -   [Python](#Python)
 -   [HTML & CSS](#HTML+CSS)
 -   [Chrome Extensions](#chrome-extensions)
--   [Other](#Other)
 -   [Github](#Github)
+-   [Other](#Other)
 
 ### CHS
 
@@ -41,19 +41,9 @@
 ### Chrome Extensions
 - [Chrome Extension Getting Started Guide](https://developer.chrome.com/extensions/getstarted)
 
-### Other
--   [Intern Supply](https://intern.supply/)
--   [Codecademy](https://www.codecademy.com/)
--   [Building Alexa Skills(YT)](https://www.youtube.com/watch?list=PL2KJmkHeYQTNwlZqLh_ptZhSNZf93e8Sp&v=1cx_I0kARnU)
-
 ### Alexa Tutorials
+-   [Building Alexa Skills(YT)](https://www.youtube.com/watch?list=PL2KJmkHeYQTNwlZqLh_ptZhSNZf93e8Sp&v=1cx_I0kARnU)
 -   [Learning Alexa with Codecademy](https://www.codecademy.com/learn/learn-alexa)
-
-### Other
--   [Intern Supply](https://intern.supply/)
--   [Codecademy](https://www.codecademy.com/)
--   [Android Development Book](https://www.bignerdranch.com/books/android-programming/)
--   [Google Launchpad Accelerators](https://developers.google.com/programs/launchpad/accelerators/)
 
 ### Github
 - [how to create a pull request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
@@ -72,5 +62,7 @@
 -   [Codecademy](https://www.codecademy.com/)
 -   [Vettery](https://www.vettery.com/)
 -   [TED Talk About Learning](https://www.youtube.com/watch?v=5MgBikgcWnY)
+-   [Android Development Book](https://www.bignerdranch.com/books/android-programming/)
+-   [Google Launchpad Accelerators](https://developers.google.com/programs/launchpad/accelerators/)
 
 
