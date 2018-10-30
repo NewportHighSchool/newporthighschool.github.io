@@ -52,14 +52,10 @@
 -   [Google Launchpad Accelerators](https://developers.google.com/programs/launchpad/accelerators/)
 
 ### Github
-- [how to create a pull request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
+- [How to create a Pull Request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
 - [How to use Git and Github video tutorials](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
-- [How to Create a Pull Request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
 - [Learn Git Branching](https://learngitbranching.js.org/)
 - [Google Launchpad Accelerators](https://developers.google.com/programs/launchpad/accelerators/)
-
-### Github
-- [how to create a pull request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
 
 
 ### Other
