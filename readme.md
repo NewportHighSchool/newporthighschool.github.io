@@ -20,3 +20,6 @@
 -   [Real Python](https://realpython.com/)
 
 
+## Chrome Extensions
+- [Chrome Extension Getting Started Guide](https://developer.chrome.com/extensions/getstarted)
+
