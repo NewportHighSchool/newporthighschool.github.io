@@ -47,9 +47,24 @@
 -   [Intern Supply](https://intern.supply/)
 -   [Codecademy](https://www.codecademy.com/)
 -   [Android Development Book](https://www.bignerdranch.com/books/android-programming/)
+
+### Github
+- [How to Create a Pull Request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
+- [Learn Git Branching](https://learngitbranching.js.org/)
+
+-   [Google Launchpad Accelerators](https://developers.google.com/programs/launchpad/accelerators/)
+
 -   [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
 ### Github
 - [how to create a pull request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
 
+
+
+
+### Other
+-   [Alexa Skill](https://www.codecademy.com/learn/learn-alexa)
+-   [Intern Supply](https://intern.supply/)
+-   [Codecademy](https://www.codecademy.com/)
+-   [TED Talk About Learning](https://www.youtube.com/watch?v=5MgBikgcWnY)
 
 
