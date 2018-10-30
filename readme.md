@@ -4,12 +4,14 @@
 ### [CHS CS Moodle](http://moodle.clevelandhighschool.org/)
 
 =======
+=======
 ## Table of Contents
 
 -   [CHS](#CHS)
 -   [Python](#Python)
 -   [Html & CSS](#HTML-&-CSS)
 -   [Chrome Extensions](#chrome-extensions)
+
 
 ### CHS
 
@@ -36,6 +38,10 @@
 
 ### Chrome Extensions
 - [Chrome Extension Getting Started Guide](https://developer.chrome.com/extensions/getstarted)
+
+### Other
+-   [Intern Supply](https://intern.supply/)
+-   [Codecademy](https://www.codecademy.com/)
 
 ### Github
 - [how to create a pull request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
