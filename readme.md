@@ -49,14 +49,12 @@
 ### Other
 -   [Intern Supply](https://intern.supply/)
 -   [Codecademy](https://www.codecademy.com/)
--   [Google Launchpad Accelerators](https://developers.google.com/programs/launchpad/accelerators/)
-
+-   [Android Development Book](https://www.bignerdranch.com/books/android-programming/)
 ### Github
-- [how to create a pull request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
-- [How to use Git and Github video tutorials](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 - [How to Create a Pull Request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
 - [Learn Git Branching](https://learngitbranching.js.org/)
-- [Google Launchpad Accelerators](https://developers.google.com/programs/launchpad/accelerators/)
+
+-   [Google Launchpad Accelerators](https://developers.google.com/programs/launchpad/accelerators/)
 
 ### Github
 - [how to create a pull request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
@@ -66,4 +64,5 @@
 -   [Alexa Skill](https://www.codecademy.com/learn/learn-alexa)
 -   [Intern Supply](https://intern.supply/)
 -   [Codecademy](https://www.codecademy.com/)
+-   [TED Talk About Learning](https://www.youtube.com/watch?v=5MgBikgcWnY)
 
