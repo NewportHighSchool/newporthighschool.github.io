@@ -3,7 +3,7 @@
 
 ### [CHS CS Moodle](http://moodle.clevelandhighschool.org/)
 
-#### Table of Contents
+## Table of Contents
 
 -   [CHS](#CHS)
 -   [Python](#Python)
