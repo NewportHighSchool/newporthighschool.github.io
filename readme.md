@@ -55,6 +55,10 @@
 -   [Intern Supply](https://intern.supply/)
 -   [Codecademy](https://www.codecademy.com/)
 -   [Android Development Book](https://www.bignerdranch.com/books/android-programming/)
+### Github
+- [How to Create a Pull Request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
+- [Learn Git Branching](https://learngitbranching.js.org/)
+
 -   [Google Launchpad Accelerators](https://developers.google.com/programs/launchpad/accelerators/)
 
 ### Github
