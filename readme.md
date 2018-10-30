@@ -12,7 +12,6 @@
 -   [Other](#Other)
 -   [Github](#Github)
 
-
 ### CHS
 
 -   [Cleveland High School Bulletin](https://www.pps.net/Page/8600)
@@ -35,8 +34,6 @@
 -   [Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 -   [Python for Everybody](https://www.coursera.org/specializations/python)
 -   [Google Classroom Tutorials](https://developers.google.com/edu/python/)
-
-
 
 ### HTML+CSS
 -   [HTML & CSS Tutorials](https://www.w3schools.com/html/default.asp)
@@ -61,14 +58,12 @@
 ### Github
 - [how to create a pull request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
 - [Learn Git Branching](https://learngitbranching.js.org/)
-
-### Github
 - [How to create a Pull Request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
 - [How to use Git and Github video tutorials](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 - [How to Create a Pull Request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
 - [Learn Git Branching](https://learngitbranching.js.org/)
 - [Google Launchpad Accelerators](https://developers.google.com/programs/launchpad/accelerators/)
--  [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
+- [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - [how to create a pull request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
 
 ### Other
