@@ -22,7 +22,7 @@
 -   [Cleveland High School](https://www.pps.net/Domain/109)
 -   [Google Classroom](https://classroom.google.com/h)
 -   [Naviance](https://student.naviance.com/cleveland)
-
+-   [administrator contact information] (https://www.pps.net/Page/2085)
 ### Python 
 -   [Python Basics](https://anh.cs.luc.edu/331/notes/PythonBasics.pdf)
 -   [Python w3schools Tutorial](https://www.w3schools.com/python/default.asp)
