@@ -39,7 +39,7 @@
 -   [Chrome Extension Getting Started Guide](https://developer.chrome.com/extensions/getstarted)
 
 ### Alexa Tutorials
- 
+-   [Amazon Alexa Skills Kit](https://developer.amazon.com/alexa-skills-kit)
  
 ### Github
 -   [How to Create a Pull Request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
