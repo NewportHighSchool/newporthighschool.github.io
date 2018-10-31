@@ -44,7 +44,7 @@
 ### Alexa Tutorials
 -   [Building Alexa Skills(YT)](https://www.youtube.com/watch?list=PL2KJmkHeYQTNwlZqLh_ptZhSNZf93e8Sp&v=1cx_I0kARnU)
 -   [Learning Alexa with Codecademy](https://www.codecademy.com/learn/learn-alexa)
-
+-   [Alexa Skill](https://www.codecademy.com/learn/learn-alexa)
 ### Github
 - [how to create a pull request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
 - [Learn Git Branching](https://learngitbranching.js.org/)
@@ -57,7 +57,6 @@
 - [how to create a pull request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
 
 ### Other
--   [Alexa Skill](https://www.codecademy.com/learn/learn-alexa)
 -   [Intern Supply](https://intern.supply/)
 -   [Codecademy](https://www.codecademy.com/)
 -   [Vettery](https://www.vettery.com/)
