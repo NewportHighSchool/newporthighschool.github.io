@@ -39,19 +39,18 @@
 -   [HTML & CSS Tutorials](https://www.w3schools.com/html/default.asp)
 
 ### Chrome Extensions
-- [Chrome Extension Getting Started Guide](https://developer.chrome.com/extensions/getstarted)
+-   [Chrome Extension Getting Started Guide](https://developer.chrome.com/extensions/getstarted)
 
 ### Alexa Tutorials
--   [Building Alexa Skills(YT)](https://www.youtube.com/watch?list=PL2KJmkHeYQTNwlZqLh_ptZhSNZf93e8Sp&v=1cx_I0kARnU)
--   [Learning Alexa with Codecademy](https://www.codecademy.com/learn/learn-alexa)
--   [Alexa Skill](https://www.codecademy.com/learn/learn-alexa)
+ 
+ 
 ### Github
-- [How to Create a Pull Request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
-- [Learn Git Branching](https://learngitbranching.js.org/)
-- [How to use Git and Github Video Tutorials](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
-- [Learn Git Branching](https://learngitbranching.js.org/)
-- [Google Launchpad Accelerators](https://developers.google.com/programs/launchpad/accelerators/)
-- [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
+-   [How to Create a Pull Request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
+-   [Learn Git Branching](https://learngitbranching.js.org/)
+-   [How to use Git and Github Video Tutorials](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+-   [Learn Git Branching](https://learngitbranching.js.org/)
+-   [Google Launchpad Accelerators](https://developers.google.com/programs/launchpad/accelerators/)
+-   [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
 
 ### Other
 -   [Intern Supply](https://intern.supply/)
