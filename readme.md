@@ -1,4 +1,12 @@
-### [CHS CS Moodle](http://moodle.clevelandhighschool.org/)
+### CHS
+[CHS CS Moodle](http://moodle.clevelandhighschool.org/)
+-   [Cleveland High School Bulletin](https://www.pps.net/Page/8600)
+-   [StudentVue](https://parent-portland.cascadetech.org/portland/)
+-   [Bell Schedule](https://www.pps.net/Page/6745)
+-   [Cleveland Calendar](https://www.pps.net/Page/320#calendar516)
+-   [Cleveland High School](https://www.pps.net/Domain/109)
+-   [Google Classroom](https://classroom.google.com/h)
+-   [Naviance](https://student.naviance.com/cleveland)
 
 ## Table of Contents
 
@@ -9,15 +17,7 @@
 -   [Github](#Github)
 -   [Other](#Other)
 
-### CHS
 
--   [Cleveland High School Bulletin](https://www.pps.net/Page/8600)
--   [StudentVue](https://parent-portland.cascadetech.org/portland/)
--   [Bell Schedule](https://www.pps.net/Page/6745)
--   [Cleveland Calendar](https://www.pps.net/Page/320#calendar516)
--   [Cleveland High School](https://www.pps.net/Domain/109)
--   [Google Classroom](https://classroom.google.com/h)
--   [Naviance](https://student.naviance.com/cleveland)
 
 ### Python 
 -   [Python Basics](https://anh.cs.luc.edu/331/notes/PythonBasics.pdf)
