@@ -17,7 +17,9 @@
 -   [Github](#Github)
 -   [Other](#Other)
 
-
+### CHS CS 
+-   [Python Basics](https://anh.cs.luc.edu/331/notes/PythonBasics.pdf)
+-   [CHS CS Moodle](http://moodle.clevelandhighschool.org/)
 
 ### Python 
 -   [Python Basics](https://anh.cs.luc.edu/331/notes/PythonBasics.pdf)
