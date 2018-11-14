@@ -55,6 +55,9 @@
 ### Robotics
 -   [Portland Robotics](https://portlandrobotics.org/home.php){:target="_blank"}
 
+### Linux
+-   [Linux Tutorial Index](http://www.yolinux.com/TUTORIALS/){:target="_blank"}
+
 ### Other
 -   [Intern Supply](https://intern.supply/){:target="_blank"}
 -   [Codecademy](https://www.codecademy.com/){:target="_blank"}
