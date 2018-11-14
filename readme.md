@@ -19,15 +19,12 @@
 -   [Other](#Other)
 
 ### CHS CS 
--   [Python Basics](https://anh.cs.luc.edu/331/notes/PythonBasics.pdf){:target="_blank"}
 -   [CHS CS Moodle](http://moodle.clevelandhighschool.org/){:target="_blank"}
 
 ### Python 
--   [Python Basics](https://anh.cs.luc.edu/331/notes/PythonBasics.pdf){:target="_blank"}
 -   [Python w3schools Tutorial](https://www.w3schools.com/python/default.asp){:target="_blank"}
 -   [Processing Python Functions Reference](https://py.processing.org/reference/){:target="_blank"}
 -   [Practical Python Project Exposure](https://pythonprogramming.net/){:target="_blank"}
--   [Python Basics](https://anh.cs.luc.edu/331/notes/PythonBasics.pdf){:target="_blank"}
 -   [Real Python](https://realpython.com/){:target="_blank"}
 -   [A Real Python](https://media1.tenor.com/images/3fe51571ba1477be4d28db4fbb5a0c05/tenor.gif?itemid=6199080){:target="_blank"}
 -   [Web Developement Courses](https://www.theodinproject.com/home){:target="_blank"}
@@ -51,7 +48,6 @@
 -   [How to Create a Pull Request](https://services.github.com/on-demand/intro-to-github/create-pull-request){:target="_blank"}
 -   [Learn Git Branching](https://learngitbranching.js.org/){:target="_blank"}
 -   [How to use Git and Github Video Tutorials](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV){:target="_blank"}
--   [Learn Git Branching](https://learngitbranching.js.org/){:target="_blank"}
 -   [Google Launchpad Accelerators](https://developers.google.com/programs/launchpad/accelerators/){:target="_blank"}
 -   [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851){:target="_blank"}
 
