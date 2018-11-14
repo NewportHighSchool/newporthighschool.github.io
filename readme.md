@@ -21,6 +21,7 @@
 
 ### CHS CS 
 -   [CHS CS Moodle](http://moodle.clevelandhighschool.org/){:target="_blank"}
+-   [Awesome List](https://github.com/sindresorhus/awesome){:target="_blank"}
 
 ### Python 
 -   [Python w3schools Tutorial](https://www.w3schools.com/python/default.asp){:target="_blank"}
