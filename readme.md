@@ -67,6 +67,9 @@
 ### Linux
 -   [Linux Tutorial Index](http://www.yolinux.com/TUTORIALS/){:target="_blank"}
 
+### School
+-   [Mathway](https://www.mathway.com/Algebra){:target="_blank"}
+
 ### Other
 -   [Intern Supply](https://intern.supply/){:target="_blank"}
 -   [Codecademy](https://www.codecademy.com/){:target="_blank"}
