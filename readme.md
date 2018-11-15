@@ -58,6 +58,9 @@
 ### Robotics
 -   [Portland Robotics](https://portlandrobotics.org/home.php){:target="_blank"}
 
+### Hardware
+-   [Pick Parts. Build Your PC](https://pcpartpicker.com/){:target="_blank"}
+
 ### Design
 -   [Munsell Hue Test](http://www.colormunki.com/game/huetest_kiosk){:target="_blank"}
 
