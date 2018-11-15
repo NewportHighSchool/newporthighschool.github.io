@@ -57,6 +57,9 @@
 ### Robotics
 -   [Portland Robotics](https://portlandrobotics.org/home.php){:target="_blank"}
 
+### Design
+-   [Munsell Hue Test](http://www.colormunki.com/game/huetest_kiosk){:target="_blank"}
+
 ### Linux
 -   [Linux Tutorial Index](http://www.yolinux.com/TUTORIALS/){:target="_blank"}
 
