@@ -75,6 +75,7 @@
 
 ### Other
 -   [Intern Supply](https://intern.supply/){:target="_blank"}
+-   [Photomath](https://photomath.net/en/){:target="_blank"}
 -   [Codecademy](https://www.codecademy.com/){:target="_blank"}
 -   [Vettery](https://www.vettery.com/){:target="_blank"}
 -   [TED Talk About Learning](https://www.youtube.com/watch?v=5MgBikgcWnY){:target="_blank"}
