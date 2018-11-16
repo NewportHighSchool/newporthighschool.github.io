@@ -61,6 +61,9 @@
 ### Hardware
 -   [Pick Parts. Build Your PC](https://pcpartpicker.com/){:target="_blank"}
 
+### Networking
+-   [Ekahau HeatMapper](https://hackaday.com/2009/06/16/ekahau-heatmapper-maps-out-wifi-signals/){:target="_blank"}
+
 ### Design
 -   [Munsell Hue Test](http://www.colormunki.com/game/huetest_kiosk){:target="_blank"}
 
@@ -79,5 +82,6 @@
 -   [Google Launchpad Accelerators](https://developers.google.com/programs/launchpad/accelerators/){:target="_blank"}
 -   [Windows SysInternals](https://docs.microsoft.com/en-us/sysinternals/){:target="_blank"}
 -   [Living Wage Calculator](http://livingwage.mit.edu/){:target="_blank"}
+-   [CommandLineFu | All Commands](https://www.commandlinefu.com/commands/browse){:target="_blank"}
 
 
