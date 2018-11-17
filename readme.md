@@ -63,6 +63,7 @@
 
 ### Networking
 -   [Ekahau HeatMapper](https://hackaday.com/2009/06/16/ekahau-heatmapper-maps-out-wifi-signals/){:target="_blank"}
+-   [Tor Project](https://www.torproject.org/){:target="_blank"}
 
 ### Design
 -   [Munsell Hue Test](http://www.colormunki.com/game/huetest_kiosk){:target="_blank"}
