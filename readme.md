@@ -39,7 +39,6 @@
 ### HTML+CSS
 -   [HTML & CSS Tutorials](https://www.w3schools.com/html/default.asp){:target="_blank"}
 -   [DASH](https://dash.generalassemb.ly/){:target="_blank"}
--   [Localhost](http://localhost/){:target="_blank"}
 
 ### Chrome Extensions
 -   [Chrome Extension Getting Started Guide](https://developer.chrome.com/extensions/getstarted){:target="_blank"}
@@ -69,22 +68,18 @@
 -   [Tor Project](https://www.torproject.org/){:target="_blank"}
 -   [NameCheap](https://www.namecheap.com/){:target="_blank"}
 -   [Network Monitoring Tools](http://nirsoft.net/network_tools.html){:target="_blank"}
--   [Localhost](http://localhost/){:target="_blank"}
 
 ### Design
 -   [Munsell Hue Test](http://www.colormunki.com/game/huetest_kiosk){:target="_blank"}
--   [David Seah](https://davidseah.com/){:target="_blank
--   [Localhost](http://localhost/){:target="_blank
+-   [David Seah](https://davidseah.com/){:target="_blank}
 
 ### Linux
 -   [Linux Tutorial Index](http://www.yolinux.com/TUTORIALS/){:target="_blank"}
 -   [PacVIM](https://www.ostechnix.com/pacvim-a-cli-game-to-learn-vim-commands/){:target="_blank}
--   [Localhost](http://localhost/){:target="_blank"}
 
 ### School
 -   [Mathway](https://www.mathway.com/Algebra){:target="_blank"}
 -   [Microsoft Virtual Academy](https://mva.microsoft.com/){:target="_blank"}
--   [Localhost](http://localhost/){:target="_blank"}
 
 ### Other
 -   [Intern Supply](https://intern.supply/){:target="_blank"}
