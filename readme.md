@@ -34,6 +34,7 @@
 -   [Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world){:target="_blank"}
 -   [Python for Everybody](https://www.coursera.org/specializations/python){:target="_blank"}
 -   [Google Classroom Tutorials](https://developers.google.com/edu/python/){:target="_blank"}
+-   [Awesome Python](https://awesome-python.com/){:target="_blank"}
 
 ### HTML+CSS
 -   [HTML & CSS Tutorials](https://www.w3schools.com/html/default.asp){:target="_blank"}
@@ -72,9 +73,13 @@
 
 ### Design
 -   [Munsell Hue Test](http://www.colormunki.com/game/huetest_kiosk){:target="_blank"}
+-   [David Seah](https://davidseah.com/){:target="_blank
+-   [Localhost](http://localhost/){:target="_blank
 
 ### Linux
 -   [Linux Tutorial Index](http://www.yolinux.com/TUTORIALS/){:target="_blank"}
+-   [PacVIM](https://www.ostechnix.com/pacvim-a-cli-game-to-learn-vim-commands/){:target="_blank}
+-   [Localhost](http://localhost/){:target="_blank"}
 
 ### School
 -   [Mathway](https://www.mathway.com/Algebra){:target="_blank"}
@@ -95,5 +100,9 @@
 -   [Gibson Research Corporation](https://www.grc.com/default.htm){:target="_blank"}
 -   [Humble Bundle](https://www.humblebundle.com/){:target="_blank"}
 -   [Open Broadcaster Software](https://obsproject.com/){:target="_blank"}
+-   [10 Common Data Structures](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b){:target="_blank"}
+-   [Uplink](https://www.introversion.co.uk/uplink/){:target="_blank"}
+-   [Android Developers Guides](https://developer.android.com/guide/){:target="_blank"}
+-   [AllInOne - System Rescue Toolkit](hhttps://paul.is-a-geek.org/aio-srt/){:target="_blank"}
 -   [Localhost](http://localhost/){:target="_blank"}
 
