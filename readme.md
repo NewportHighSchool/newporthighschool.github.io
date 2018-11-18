@@ -37,6 +37,8 @@
 
 ### HTML+CSS
 -   [HTML & CSS Tutorials](https://www.w3schools.com/html/default.asp){:target="_blank"}
+-   [DASH](https://dash.generalassemb.ly/){:target="_blank"}
+-   [Localhost](http://localhost/){:target="_blank"}
 
 ### Chrome Extensions
 -   [Chrome Extension Getting Started Guide](https://developer.chrome.com/extensions/getstarted){:target="_blank"}
@@ -65,6 +67,8 @@
 -   [Ekahau HeatMapper](https://hackaday.com/2009/06/16/ekahau-heatmapper-maps-out-wifi-signals/){:target="_blank"}
 -   [Tor Project](https://www.torproject.org/){:target="_blank"}
 -   [NameCheap](https://www.namecheap.com/){:target="_blank"}
+-   [Network Monitoring Tools](http://nirsoft.net/network_tools.html){:target="_blank"}
+-   [Localhost](http://localhost/){:target="_blank"}
 
 ### Design
 -   [Munsell Hue Test](http://www.colormunki.com/game/huetest_kiosk){:target="_blank"}
@@ -74,6 +78,8 @@
 
 ### School
 -   [Mathway](https://www.mathway.com/Algebra){:target="_blank"}
+-   [Microsoft Virtual Academy](https://mva.microsoft.com/){:target="_blank"}
+-   [Localhost](http://localhost/){:target="_blank"}
 
 ### Other
 -   [Intern Supply](https://intern.supply/){:target="_blank"}
