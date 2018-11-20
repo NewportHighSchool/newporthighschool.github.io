@@ -81,6 +81,7 @@
 ### School
 -   [Mathway](https://www.mathway.com/Algebra){:target="_blank"}
 -   [Microsoft Virtual Academy](https://mva.microsoft.com/){:target="_blank"}
+-   [Physics Notes*](https://landgreen.github.io/physics/index.html){:target="_blank"}
 
 ### Other
 -   [Intern Supply](https://intern.supply/){:target="_blank"}
@@ -102,4 +103,6 @@
 -   [AllInOne - System Rescue Toolkit](hhttps://paul.is-a-geek.org/aio-srt/){:target="_blank"}
 -   [Convert Anything to Anything](https://cloudconvert.com/){:target="_blank"}
 -   [Localhost](http://localhost/){:target="_blank"}
+
+*GitHub
 
