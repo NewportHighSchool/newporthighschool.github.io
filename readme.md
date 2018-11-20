@@ -7,6 +7,7 @@
 -   [Cleveland High School](https://www.pps.net/Domain/109){:target="_blank"}
 -   [Google Classroom](https://classroom.google.com/h){:target="_blank"}
 -   [Naviance](https://student.naviance.com/cleveland){:target="_blank"}
+-   [CHS Warrior Athletics](https://www.clevelandwarriorathletics.com/){:target="_blank"}
 
 ## Table of Contents
 
