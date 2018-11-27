@@ -44,6 +44,9 @@
 ### Chrome Extensions
 -   [Chrome Extension Getting Started Guide](https://developer.chrome.com/extensions/getstarted){:target="_blank"}
 
+### Arduino
+-   [oomlout](http://oomlout.com/oom.php/){:target="_blank"}
+
 ### Alexa Tutorials
 -   [Amazon Alexa Skills Kit](https://developer.amazon.com/alexa-skills-kit){:target="_blank"}
  
