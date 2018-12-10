@@ -5,10 +5,6 @@
 -   [CHS CS Course Descriptions](http://www.clevelandhighschool.org/courses.html){:target="_blank"}
 -   [CHS CS Processing Activity](http://processing.clevelandhighschool.org/){:target="_blank"}
 
-#### Tools
--   [Awesome List](https://github.com/sindresorhus/awesome){:target="_blank"}
--   [ScreenToGIF](https://www.screentogif.com/){:target="_blank"}
-
 ### CHS
 -   [CHS CS Moodle](http://moodle.clevelandhighschool.org/){:target="_blank"}
 -   [Cleveland High School Bulletin](https://www.pps.net/Page/8600){:target="_blank"}
@@ -22,7 +18,6 @@
 
 ## Table of Contents
 
--   [CHS](#CHS)
 -   [Python](#Python)
 -   [HTML & CSS](#HTML+CSS)
 -   [Chrome Extensions](#chrome-extensions)
@@ -30,6 +25,11 @@
 -   [Images](#Images)
 -   [Robotics](#Robotics)
 -   [Other](#Other)
+
+
+### CS Class Tools
+-   [Awesome List](https://github.com/sindresorhus/awesome){:target="_blank"}
+-   [ScreenToGIF](https://www.screentogif.com/){:target="_blank"}
 
 ### Python 
 -   [Python w3schools Tutorial](https://www.w3schools.com/python/default.asp){:target="_blank"}
