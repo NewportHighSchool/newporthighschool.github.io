@@ -4,6 +4,7 @@
 -   [Mr. Walker's Classroom Blog](http://mrwalker.clevelandhighschool.org/){:target="_blank"}
 -   [CHS CS Course Descriptions](http://www.clevelandhighschool.org/courses.html){:target="_blank"}
 -   [CHS CS Processing Activity](http://processing.clevelandhighschool.org/){:target="_blank"}
+
 #### Tools
 -   [Awesome List](https://github.com/sindresorhus/awesome){:target="_blank"}
 -   [ScreenToGIF](https://www.screentogif.com/){:target="_blank"}
