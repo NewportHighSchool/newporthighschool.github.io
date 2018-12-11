@@ -30,6 +30,7 @@
 ### CS Class Tools
 -   [Awesome List](https://github.com/sindresorhus/awesome){:target="_blank"}
 -   [ScreenToGIF](https://www.screentogif.com/){:target="_blank"}
+-   [USGS Earthquake Real Time Notification Feeds](https://earthquake.usgs.gov/earthquakes/feed/){:target="_blank"}
 
 ### Python 
 -   [Python w3schools Tutorial](https://www.w3schools.com/python/default.asp){:target="_blank"}
@@ -112,7 +113,7 @@
 -   [Android Developers Guides](https://developer.android.com/guide/){:target="_blank"}
 -   [AllInOne - System Rescue Toolkit](hhttps://paul.is-a-geek.org/aio-srt/){:target="_blank"}
 -   [Convert Anything to Anything](https://cloudconvert.com/){:target="_blank"}
--   [Exlpore.org Live Cams](https://explore.org/livecams/explore-all-cams/decorah-eagles){:target="_blank"}
+-   [Explore.org Live Cams](https://explore.org/livecams/explore-all-cams/decorah-eagles){:target="_blank"}
 -   [Localhost](http://localhost/){:target="_blank"}
 
 *GitHub
