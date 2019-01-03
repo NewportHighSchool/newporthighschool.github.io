@@ -31,6 +31,7 @@
 ### CS Class Tools
 -   [Awesome List](https://github.com/sindresorhus/awesome){:target="_blank"}
 -   [ScreenToGIF](https://www.screentogif.com/){:target="_blank"}
+-   [GifCam](http://blog.bahraniapps.com/gifcam/#download){:target="_blank"}
 -   [USGS Earthquake Real Time Notification Feeds](https://earthquake.usgs.gov/earthquakes/feed/){:target="_blank"}
 
 ### Python 
