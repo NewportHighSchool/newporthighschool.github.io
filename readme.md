@@ -29,6 +29,7 @@
 
 
 ### CS Class Tools
+-   [Draw.io](https://www.draw.io/){:target="_blank"}
 -   [Awesome List](https://github.com/sindresorhus/awesome){:target="_blank"}
 -   [ScreenToGIF](https://www.screentogif.com/){:target="_blank"}
 -   [GifCam](http://blog.bahraniapps.com/gifcam/#download){:target="_blank"}
@@ -61,7 +62,6 @@
  
 ### Images
 -   [Photopea: web based advanced image editor](https://www.photopea.com/){:target="_blank"}
--   [Draw.io](https://www.draw.io/){:target="_blank"}
 -   [Web Resizer](http://webresizer.com/resizer/){:target="_blank"}
 -   [Remove Background](https://www.remove.bg/){:target="_blank"}
  
