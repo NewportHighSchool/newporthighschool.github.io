@@ -117,6 +117,7 @@
 -   [AllInOne - System Rescue Toolkit](hhttps://paul.is-a-geek.org/aio-srt/){:target="_blank"}
 -   [Convert Anything to Anything](https://cloudconvert.com/){:target="_blank"}
 -   [Explore.org Live Cams](https://explore.org/livecams/explore-all-cams/decorah-eagles){:target="_blank"}
+-   [Developers Swag](https://devswag.io/){:target="_blank"}
 -   [Localhost](http://localhost/){:target="_blank"}
 
 *GitHub
