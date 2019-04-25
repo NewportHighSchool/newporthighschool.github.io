@@ -54,6 +54,9 @@
 ### Chrome Extensions
 -   [Chrome Extension Getting Started Guide](https://developer.chrome.com/extensions/getstarted){:target="_blank"}
 
+### IB
+-   [Computer Science Wiki (IB)](https://computersciencewiki.org/index.php/Welcome){:target="_blank"}
+
 ### Arduino
 -   [oomlout](http://oomlout.com/oom.php/){:target="_blank"}
 
@@ -120,5 +123,4 @@
 -   [Developers Swag](https://devswag.io/){:target="_blank"}
 -   [Localhost](http://localhost/){:target="_blank"}
 
-*GitHub
 
