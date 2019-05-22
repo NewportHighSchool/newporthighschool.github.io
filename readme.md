@@ -16,6 +16,7 @@
 -   [Google Classroom](https://classroom.google.com/h){:target="_blank"}
 -   [Naviance](https://student.naviance.com/cleveland){:target="_blank"}
 -   [CHS Warrior Athletics](https://www.clevelandwarriorathletics.com/){:target="_blank"}
+-   [CHS College and Career Website](https://clevelandccc.weebly.com/){:target="_blank"}
 
 ## Table of Contents
 
