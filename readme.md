@@ -79,6 +79,7 @@
 -   [How to use Git and Github Video Tutorials](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV){:target="_blank"}
 -   [Google Launchpad Accelerators](https://developers.google.com/programs/launchpad/accelerators/){:target="_blank"}
 -   [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851){:target="_blank"}
+-   [Hacktoberfest](https://hacktoberfest.digitalocean.com/){:target="_blank"}
 
 ### Robotics
 -   [Portland Robotics](https://portlandrobotics.org/home.php){:target="_blank"}
