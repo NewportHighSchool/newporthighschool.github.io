@@ -60,7 +60,8 @@
 ### IB
 -   [Computer Science Wiki (IB)](https://computersciencewiki.org/index.php/Welcome){:target="_blank"}
 -   [Example CS IAs (IB)](https://ibpublishing.ibo.org/live-exist/rest/app/tsm.xql?doc=d_4_comsc_tsm_1201_2_e&part=4&chapter=7){:target="_blank"}
--   [IA Handbook (IB)](https://csmoodle.clevelandhighschool.org/pluginfile.php/39/mod_resource/content/2/Computer%20Science%20%20Guide.pdf){:target="_blank"}
+-   [IA Handbook (IB) - requires Moodle login](https://csmoodle.clevelandhighschool.org/pluginfile.php/39/mod_resource/content/2/Computer%20Science%20%20Guide.pdf){:target="_blank"}
+-   [IB Computer Science SL standards](https://computersciencewiki.org/index.php/IB_Computer_Science_SL_standards)
 
 ### Arduino
 -   [oomlout](http://oomlout.com/oom.php/){:target="_blank"}
