@@ -74,7 +74,8 @@
 -   [Remove Background](https://www.remove.bg/){:target="_blank"}
  
 ### Github
--   [How to Create a Pull Request](https://services.github.com/on-demand/intro-to-github/create-pull-request){:target="_blank"}
+-   [How to Create a Pull Request](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github){:target="_blank"}
+-   [GitHub Learning Lab](https://lab.github.com/){:target="_blank"}
 -   [Learn Git Branching](https://learngitbranching.js.org/){:target="_blank"}
 -   [How to use Git and Github Video Tutorials](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV){:target="_blank"}
 -   [Google Launchpad Accelerators](https://developers.google.com/programs/launchpad/accelerators/){:target="_blank"}
