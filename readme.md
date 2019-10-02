@@ -19,13 +19,21 @@
 -   [CHS College and Career Website](https://clevelandccc.weebly.com/){:target="_blank"}
 
 ## Table of Contents
-
+-   [CS Class Tools](#CS-Class-Tools)
 -   [Python](#Python)
 -   [HTML & CSS](#HTML+CSS)
 -   [Chrome Extensions](#chrome-extensions)
--   [Github](#Github)
+-   [IB](#IB)
+-   [Arduino](#Arduino)
+-   [Alexa Tutorials](#Alexa-Tutorials)
 -   [Images](#Images)
+-   [Github](#Github)
 -   [Robotics](#Robotics)
+-   [Hardware](#Hardware)
+-   [Networking](#Networking)
+-   [Design](#Design)
+-   [Linux](#Linux)
+-   [School](#School)
 -   [Other](#Other)
 
 
