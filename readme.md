@@ -20,6 +20,7 @@
 
 ## Table of Contents
 -   [CS Class Tools](#CS-Class-Tools)
+-   [CS Resources](#CS-Resources)
 -   [Python](#Python)
 -   [HTML & CSS](#HTML+CSS)
 -   [Chrome Extensions](#chrome-extensions)
@@ -46,6 +47,9 @@
 -   [Open Processing - Creative Coding](https://www.openprocessing.org/){:target="_blank"}
 -   [Processing.org](https://processing.org/){:target="_blank"}
 -   [Netlify](https://www.netlify.com){:target="_blank"}
+
+### CS Resources
+-   [Stack Overflow](https://www.stackoverflow.com){:target="_blank"}
 
 ### Python 
 -   [Python w3schools Tutorial](https://www.w3schools.com/python/default.asp){:target="_blank"}
@@ -141,5 +145,3 @@
 -   [Developers Swag](https://devswag.io/){:target="_blank"}
 -   [Localhost](http://localhost/){:target="_blank"}
 -   [w3schools](https://www.w3schools.com){:target="_blank"}
--   [Stack Overflow](https://www.stackoverflow.com){:target="_blank"}
-
