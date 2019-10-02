@@ -9,6 +9,8 @@ You can use the [editor on GitHub](https://github.com/ClevelandHighSchool/clevel
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+To learn how to create a poll request to improve this repository reference this [tutorial](https://www.thinkful.com/learn/github-pull-request-tutorial/#Time-to-Submit-Your-First-PR){:target="_blank"}
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
