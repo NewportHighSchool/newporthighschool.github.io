@@ -17,6 +17,9 @@
 -   [Naviance](https://student.naviance.com/cleveland){:target="_blank"}
 -   [CHS Warrior Athletics](https://www.clevelandwarriorathletics.com/){:target="_blank"}
 -   [CHS College and Career Website](https://clevelandccc.weebly.com/){:target="_blank"}
+-   [Mathway](https://www.mathway.com/Algebra){:target="_blank"}
+-   [Microsoft Virtual Academy](https://mva.microsoft.com/){:target="_blank"}
+-   [Physics Notes*](https://landgreen.github.io/physics/index.html){:target="_blank"}
 
 ## Table of Contents
 -   [CS Class Tools](#CS-Class-Tools)
@@ -112,11 +115,6 @@
 ### Linux
 -   [Linux Tutorial Index](http://www.yolinux.com/TUTORIALS/){:target="_blank"}
 -   [PacVIM](https://www.ostechnix.com/pacvim-a-cli-game-to-learn-vim-commands/){:target="_blank}
-
-### School
--   [Mathway](https://www.mathway.com/Algebra){:target="_blank"}
--   [Microsoft Virtual Academy](https://mva.microsoft.com/){:target="_blank"}
--   [Physics Notes*](https://landgreen.github.io/physics/index.html){:target="_blank"}
 
 ### Other
 -   [Intern Supply](https://intern.supply/){:target="_blank"}
