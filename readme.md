@@ -98,8 +98,8 @@
 -   [Remove Background](https://www.remove.bg/){:target="_blank"}
 -   [Pxlr: web based photoshop alternative](https://pixlr.com/editor/){:target="_blank"}
 -   [Piskel: web based spirte maker](https://www.piskelapp.com/){:target="_blank"}
--   [Nvidia Inpainting: ai based photo editing](https://www.nvidia.com/research/inpainting/){:target="_blank"}
-
+-   [Nvidia Inpainting: AI based photo editing](https://www.nvidia.com/research/inpainting/){:target="_blank"}
+-   [Nvidia Gaugan: AI based landscaping tool](http://nvidia-research-mingyuliu.com/gaugan/){:target="_blank"}
  
 ### Github
 -   [How to Create a Pull Request](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github){:target="_blank"}
