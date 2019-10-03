@@ -100,6 +100,9 @@
 -   [Piskel: web based spirte maker](https://www.piskelapp.com/){:target="_blank"}
 -   [Nvidia Inpainting: AI based photo editing](https://www.nvidia.com/research/inpainting/){:target="_blank"}
 -   [Nvidia Gaugan: AI based landscaping tool](http://nvidia-research-mingyuliu.com/gaugan/){:target="_blank"}
+-   [Canva: Free design tool](https://www.canva.com){:target="_blank"}
+-   [Figma: Another free design tool](https://www.figma.com){:target="_blank"}
+
  
 ### Github
 -   [How to Create a Pull Request](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github){:target="_blank"}
