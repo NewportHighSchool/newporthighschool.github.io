@@ -29,6 +29,7 @@
 -   [IB](#IB)
 -   [Arduino](#Arduino)
 -   [Alexa Tutorials](#Alexa-Tutorials)
+-   [Audio](#Audio)
 -   [Images](#Images)
 -   [Github](#Github)
 -   [Robotics](#Robotics)
@@ -81,10 +82,18 @@
 ### Alexa Tutorials
 -   [Amazon Alexa Skills Kit](https://developer.amazon.com/alexa-skills-kit){:target="_blank"}
  
+### Audio
+-   [BFXR: sound effect maker](https://www.bfxr.net/){:target="_blank"}
+-   [BeepBox: web based music maker](https://www.beepbox.co){:target="_blank"}
+ 
 ### Images
 -   [Photopea: web based advanced image editor](https://www.photopea.com/){:target="_blank"}
 -   [Web Resizer](http://webresizer.com/resizer/){:target="_blank"}
 -   [Remove Background](https://www.remove.bg/){:target="_blank"}
+-   [Pxlr: web based photoshop alternative](https://pixlr.com/editor/){:target="_blank"}
+-   [Piskel: web based spirte maker](https://www.piskelapp.com/){:target="_blank"}
+-   [Nvidia Inpainting: ai based photo editing](https://www.nvidia.com/research/inpainting/){:target="_blank"}
+
  
 ### Github
 -   [How to Create a Pull Request](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github){:target="_blank"}
