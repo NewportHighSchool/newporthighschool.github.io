@@ -25,6 +25,7 @@
 
 ## Table of Contents
 -   [CS Class Tools](#CS-Class-Tools)
+-   [CS Resources](#CS-Resources)
 -   [Python](#Python)
 -   [HTML & CSS](#HTML+CSS)
 -   [Chrome Extensions](#chrome-extensions)
@@ -52,6 +53,9 @@
 -   [Processing.org](https://processing.org/){:target="_blank"}
 -   [Netlify](https://www.netlify.com){:target="_blank"}
 -   [Git](https://git-scm.com/downloads){:target="_blank"}
+
+### CS Resources
+-   [Stack Overflow](https://www.stackoverflow.com){:target="_blank"}
 
 ### Python 
 -   [Python w3schools Tutorial](https://www.w3schools.com/python/default.asp){:target="_blank"}
