@@ -20,6 +20,8 @@
 -   [Mathway](https://www.mathway.com/Algebra){:target="_blank"}
 -   [Microsoft Virtual Academy](https://mva.microsoft.com/){:target="_blank"}
 -   [Physics Notes*](https://landgreen.github.io/physics/index.html){:target="_blank"}
+-   [CHS Warrior Updates](https://www.youtube.com/channel/UC2MSuv8vQe7pbHnY4pdfKqg){:target="_blank"}
+-   [CHS Clarion News](https://clevelandclarion.com/){:target="_blank"}
 
 ## Table of Contents
 -   [CS Class Tools](#CS-Class-Tools)
