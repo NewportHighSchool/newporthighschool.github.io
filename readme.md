@@ -138,6 +138,7 @@
 
 ### Other
 -   [Intern Supply](https://intern.supply/){:target="_blank"}
+-   [97 Things Every Programmer Should Know](https://legacy.gitbook.com/book/97-things-every-x-should-know/97-things-every-programmer-should-know/details){:target="_blank"}
 -   [Photomath](https://photomath.net/en/){:target="_blank"}
 -   [Codecademy](https://www.codecademy.com/){:target="_blank"}
 -   [Vettery](https://www.vettery.com/){:target="_blank"}
