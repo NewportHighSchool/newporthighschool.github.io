@@ -6,11 +6,11 @@
 -   [CHS CS Processing Activity](http://processing.clevelandhighschool.org/){:target="_blank"}
 
 ### CHS
--   [Cleveland High School Bulletin](https://www.pps.net/Page/8600){:target="_blank"}
+-   [CHS Bulletin](https://www.pps.net/Page/8600){:target="_blank"}
 -   [StudentVue](https://parent-portland.cascadetech.org/portland/){:target="_blank"}
 -   [Bell Schedule](https://www.pps.net/Page/6745){:target="_blank"}
--   [Cleveland Calendar](https://www.pps.net/Page/320#calendar516){:target="_blank"}
--   [Cleveland High School](https://www.pps.net/Domain/109){:target="_blank"}
+-   [CHS Calendar](https://www.pps.net/Page/320#calendar516){:target="_blank"}
+-   [CHS](https://www.pps.net/Domain/109){:target="_blank"}
 -   [Google Classroom](https://classroom.google.com/h){:target="_blank"}
 -   [Naviance](https://student.naviance.com/cleveland){:target="_blank"}
 -   [CHS Warrior Athletics](https://www.clevelandwarriorathletics.com/){:target="_blank"}
