@@ -92,6 +92,7 @@
 ### Audio
 -   [BFXR: sound effect maker](https://www.bfxr.net/){:target="_blank"}
 -   [BeepBox: web based music maker](https://www.beepbox.co){:target="_blank"}
+-   [Audacity: Free Open Source Audio Editor](https://www.audacityteam.org/){:target="_blank"}
  
 ### Images
 -   [Photopea: web based advanced image editor](https://www.photopea.com/){:target="_blank"}
