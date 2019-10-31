@@ -104,6 +104,7 @@
 -   [Nvidia Gaugan: AI based landscaping tool](http://nvidia-research-mingyuliu.com/gaugan/){:target="_blank"}
 -   [Canva: Free design tool](https://www.canva.com){:target="_blank"}
 -   [Figma: Another free design tool](https://www.figma.com){:target="_blank"}
+-   [Paint.net](https://www.getpaint.net/){:target="_blank}
 
  
 ### Github
