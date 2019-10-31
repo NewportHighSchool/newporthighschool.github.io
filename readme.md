@@ -104,6 +104,7 @@
 -   [Nvidia Gaugan: AI based landscaping tool](http://nvidia-research-mingyuliu.com/gaugan/){:target="_blank"}
 -   [Canva: Free design tool](https://www.canva.com){:target="_blank"}
 -   [Figma: Another free design tool](https://www.figma.com){:target="_blank"}
+-   [Paint.net](https://www.getpaint.net/){:target="_blank}
 
  
 ### Github
@@ -132,7 +133,6 @@
 -   [Munsell Hue Test](http://www.colormunki.com/game/huetest_kiosk){:target="_blank"}
 -   [David Seah](https://davidseah.com/){:target="_blank}
 -   [Human-centered design charrette - requires Moodle login](https://csmoodle.clevelandhighschool.org/pluginfile.php/2570/mod_page/content/45/HCDCharretteSlideDeck.pdf)
--   [Paint.net](https://www.getpaint.net/){:target="_blank}
 
 ### Linux
 -   [Linux Tutorial Index](http://www.yolinux.com/TUTORIALS/){:target="_blank"}
