@@ -44,6 +44,7 @@
 ### CS Class Tools
 -   [Draw.io](https://www.draw.io/){:target="_blank"}
 -   [Creatly - Online diagram program](https://creately.com/){:target="_blank"}
+-   [Mermaid - flowcharts from scripts](https://mermaid-js.github.io/mermaid-live-editor/){:target="_blank"}
 -   [Awesome List](https://github.com/sindresorhus/awesome){:target="_blank"}
 -   [ScreenToGIF](https://www.screentogif.com/){:target="_blank"}
 -   [GifCam](http://blog.bahraniapps.com/gifcam/#download){:target="_blank"}
