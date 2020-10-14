@@ -1,6 +1,6 @@
 
-### CHS CS 
--   [CHS CS Moodle](https://csmoodle.clevelandhighschool.org/){:target="_blank"}
+### NHS CS 
+-   [CS Edhesive](https://intro.edhesive.com/){:target="_blank"}
 -   [Mr. Walker's Classroom Blog](http://mrwalker.clevelandhighschool.org/){:target="_blank"}
 -   [CHS CS Course Descriptions](http://www.clevelandhighschool.org/courses.html){:target="_blank"}
 -   [CHS CS Processing Activity](http://processing.clevelandhighschool.org/){:target="_blank"}
