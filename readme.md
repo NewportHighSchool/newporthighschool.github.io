@@ -5,21 +5,22 @@
 -   [CHS CS Course Descriptions](http://www.clevelandhighschool.org/courses.html){:target="_blank"}
 -   [CHS CS Processing Activity](http://processing.clevelandhighschool.org/){:target="_blank"}
 
-### CHS
--   [CHS Bulletin](https://www.pps.net/Page/8600){:target="_blank"}
--   [StudentVue](https://parent-portland.cascadetech.org/portland/){:target="_blank"}
--   [Bell Schedule](https://www.pps.net/Page/6745){:target="_blank"}
--   [CHS Calendar](https://www.pps.net/Page/320#calendar516){:target="_blank"}
--   [CHS](https://www.pps.net/Domain/109){:target="_blank"}
+### NHS
+-   [NHS Daily Announcement](https://sites.google.com/lincoln.k12.or.us/nhs-daily-announcement/home){:target="_blank"}
+-   [Gradebook Login](https://lincoln.grades.lblesd.k12.or.us/wazzle/gradebook/Logon.aspx){:target="_blank"}
+-   [Bell Schedule](https://nhs.lincoln.k12.or.us/our-school/schedule/){:target="_blank"}
+-   [NHS Calendar](https://nhs.lincoln.k12.or.us/our-school/calendars/){:target="_blank"}
+-   [NHS](https://nhs.lincoln.k12.or.us/){:target="_blank"}
 -   [Google Classroom](https://classroom.google.com/h){:target="_blank"}
--   [Naviance](https://student.naviance.com/cleveland){:target="_blank"}
--   [CHS Warrior Athletics](https://www.clevelandwarriorathletics.com/){:target="_blank"}
--   [CHS College and Career Website](https://clevelandccc.weebly.com/){:target="_blank"}
+-   [E-Learning](https://lincoln.k12.or.us/academics/e-learning/){:target="_blank"}
+-   [NHS Cubs Athletics](https://nhs.lincoln.k12.or.us/athletics/){:target="_blank"}
+-   [CTE](https://lincoln.k12.or.us/academics/cte/){:target="_blank"}
 -   [Mathway](https://www.mathway.com/Algebra){:target="_blank"}
 -   [Microsoft Virtual Academy](https://mva.microsoft.com/){:target="_blank"}
 -   [Physics Notes*](https://landgreen.github.io/physics/index.html){:target="_blank"}
--   [CHS Warrior Updates](https://www.youtube.com/channel/UC2MSuv8vQe7pbHnY4pdfKqg){:target="_blank"}
--   [CHS Clarion News](https://clevelandclarion.com/){:target="_blank"}
+-   [NHS Weekly Athrletics & Activities](https://www.youtube.com/channel/UC2MSuv8vQe7pbHnY4pdfKqg){:target="_blank"}
+-   [NHS News](https://nhs.lincoln.k12.or.us/news/){:target="_blank"}
+-   [Safety & Emergency Info](https://lincoln.k12.or.us/resources/family/safety/){:target="_blank"}
 
 ## Table of Contents
 -   [CS Class Tools](#CS-Class-Tools)
