@@ -6,23 +6,8 @@
 -   [CS Processing Activity](http://processing.learnbydoing.org/){:target="_blank"}
 
 ### NHS
--   [Daily Announcement](https://sites.google.com/lincoln.k12.or.us/nhs-daily-announcement/home){:target="_blank"}
--   [Weekly Athletics & Activities](https://sites.google.com/lincoln.k12.or.us/nhs-weekly-athletics-activity/home){:target="_blank"}
-
-
--   [Calendar](https://nhs.lincoln.k12.or.us/our-school/calendars/){:target="_blank"}
--   [NHS News](https://nhs.lincoln.k12.or.us/news/){:target="_blank"}
--   [Wazzle Gradebook Login](https://lincoln.grades.lblesd.k12.or.us/wazzle/gradebook/Logon.aspx){:target="_blank"}
--   [NHS Seniors](https://nhs.lincoln.k12.or.us/resources/seniors/){:target="_blank"}
--   [ASPIRE](https://nhs.lincoln.k12.or.us/academics/aspire/){:target="_blank"}
--   [Scholarships](https://nhs.lincoln.k12.or.us/academics/scholarships/){:target="_blank"}
--   [NHS Cubs Athletics Main](https://nhs.lincoln.k12.or.us/athletics/){:target="_blank"}
--   [NHS Cubs Athletics schedules](https://newportcubs.bigteams.com/){:target="_blank"}
--   [LCSD Digital Resource](https://sites.google.com/lincoln.k12.or.us/lcsdstudentportal/home){:target="_blank"}
 -   [Microsoft Virtual Academy](https://mva.microsoft.com/){:target="_blank"}
 -   [Physics Notes*](https://landgreen.github.io/physics/index.html){:target="_blank"}
--   [Safety & Emergency Info](https://lincoln.k12.or.us/resources/family/safety/){:target="_blank"}
-
 
 ## Table of Contents
 -   [CS Class Tools](#CS-Class-Tools)
