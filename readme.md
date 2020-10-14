@@ -1,25 +1,13 @@
 
 ### NHS CS 
 -   [CS Edhesive](https://intro.edhesive.com/){:target="_blank"}
--   [Mr. Walker's Classroom Blog](http://mrwalker.clevelandhighschool.org/){:target="_blank"}
--   [CHS CS Course Descriptions](http://www.clevelandhighschool.org/courses.html){:target="_blank"}
--   [CHS CS Processing Activity](http://processing.clevelandhighschool.org/){:target="_blank"}
+-   [Mr. Walker's Classroom Blog](http://mrwalker.learnbydoing.org/){:target="_blank"}
+-   [NHS CS Course Descriptions](http://www.google.com/){:target="_blank"}
+-   [CS Processing Activity](http://processing.learnbydoing.org/){:target="_blank"}
 
-### CHS
--   [CHS Bulletin](https://www.pps.net/Page/8600){:target="_blank"}
--   [StudentVue](https://parent-portland.cascadetech.org/portland/){:target="_blank"}
--   [Bell Schedule](https://www.pps.net/Page/6745){:target="_blank"}
--   [CHS Calendar](https://www.pps.net/Page/320#calendar516){:target="_blank"}
--   [CHS](https://www.pps.net/Domain/109){:target="_blank"}
--   [Google Classroom](https://classroom.google.com/h){:target="_blank"}
--   [Naviance](https://student.naviance.com/cleveland){:target="_blank"}
--   [CHS Warrior Athletics](https://www.clevelandwarriorathletics.com/){:target="_blank"}
--   [CHS College and Career Website](https://clevelandccc.weebly.com/){:target="_blank"}
--   [Mathway](https://www.mathway.com/Algebra){:target="_blank"}
+### NHS
 -   [Microsoft Virtual Academy](https://mva.microsoft.com/){:target="_blank"}
 -   [Physics Notes*](https://landgreen.github.io/physics/index.html){:target="_blank"}
--   [CHS Warrior Updates](https://www.youtube.com/channel/UC2MSuv8vQe7pbHnY4pdfKqg){:target="_blank"}
--   [CHS Clarion News](https://clevelandclarion.com/){:target="_blank"}
 
 ## Table of Contents
 -   [CS Class Tools](#CS-Class-Tools)
@@ -27,7 +15,7 @@
 -   [Python](#Python)
 -   [HTML & CSS](#HTML+CSS)
 -   [Chrome Extensions](#chrome-extensions)
--   [IB](#IB)
+-   [AP](#AP)
 -   [Arduino](#Arduino)
 -   [Alexa Tutorials](#Alexa-Tutorials)
 -   [Audio](#Audio)
@@ -77,12 +65,8 @@
 ### Chrome Extensions
 -   [Chrome Extension Getting Started Guide](https://developer.chrome.com/extensions/getstarted){:target="_blank"}
 
-### IB
--   [Computer Science Wiki (IB)](https://computersciencewiki.org/index.php/Welcome){:target="_blank"}
--   [Example CS IAs (IB)](https://ibpublishing.ibo.org/live-exist/rest/app/tsm.xql?doc=d_4_comsc_tsm_1201_2_e&part=4&chapter=7){:target="_blank"}
--   [IA Handbook (IB) - requires Moodle login](https://csmoodle.clevelandhighschool.org/pluginfile.php/39/mod_resource/content/2/Computer%20Science%20%20Guide.pdf){:target="_blank"}
--   [IB Computer Science SL standards](https://computersciencewiki.org/index.php/IB_Computer_Science_SL_standards)
--   [Full Command Term List](https://sites.cdnis.edu.hk/school/computerscience/official-ib-documents/glossary-of-command-terms/){:target="_blank"}
+### AP
+-   [Localhost](http://localhost/){:target="_blank"}
 
 ### Arduino
 -   [oomlout](http://oomlout.com/oom.php/){:target="_blank"}
@@ -119,15 +103,13 @@
 -   [Hacktoberfest](https://hacktoberfest.digitalocean.com/){:target="_blank"}
 
 ### Robotics
--   [Portland Robotics](https://portlandrobotics.org/home.php){:target="_blank"}
--   [CHS Pigmice](https://www.pigmice.com/){:target="_blank"}
+-   [Localhost](http://localhost/){:target="_blank"}
 
 ### Hardware
 -   [Pick Parts. Build Your PC](https://pcpartpicker.com/){:target="_blank"}
 
 ### Networking
 -   [Ekahau HeatMapper](https://hackaday.com/2009/06/16/ekahau-heatmapper-maps-out-wifi-signals/){:target="_blank"}
--   [Tor Project](https://www.torproject.org/){:target="_blank"}
 -   [NameCheap](https://www.namecheap.com/){:target="_blank"}
 -   [Network Monitoring Tools](http://nirsoft.net/network_tools.html){:target="_blank"}
 
