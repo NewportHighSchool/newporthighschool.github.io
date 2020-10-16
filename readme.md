@@ -6,6 +6,7 @@
 -   [CS Processing Activity](http://processing.learnbydoing.org/){:target="_blank"}
 
 ### NHS
+-   [Newport High School](https://www.google.com/){:target="_blank"}
 -   [Microsoft Virtual Academy](https://mva.microsoft.com/){:target="_blank"}
 -   [Physics Notes*](https://landgreen.github.io/physics/index.html){:target="_blank"}
 
