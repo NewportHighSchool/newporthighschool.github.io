@@ -1,6 +1,6 @@
 
 ### NHS CS 
--   [CS Edhesive](https://bsd405.org/nhs/){:target="_blank"}
+-   [CS Edhesive](https://intro.edhesive.com/){:target="_blank"}
 -   [Mr. Walker's Classroom Blog](http://mrwalker.learnbydoing.org/){:target="_blank"}
 -   [NHS CS Course Descriptions](http://www.google.com/){:target="_blank"}
 -   [CS Processing Activity](http://processing.learnbydoing.org/){:target="_blank"}
