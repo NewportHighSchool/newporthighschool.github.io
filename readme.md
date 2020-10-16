@@ -151,4 +151,4 @@
 -   [w3schools](https://www.w3schools.com){:target="_blank"}
 -   [DEV Community](https://dev.to/){:target="_blank"}
 -   [Why Study Computer Science?](https://www.depauw.edu/academics/departments-programs/computer-science/why-study-computer-science/){:target="_blank"}
-
+-   [Stack Overflow](https://stackoverflow.com/){:target="_blank"}
