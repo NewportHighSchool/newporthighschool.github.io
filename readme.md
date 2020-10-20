@@ -42,6 +42,7 @@
 -   [Processing.org](https://processing.org/){:target="_blank"}
 -   [Netlify](https://www.netlify.com){:target="_blank"}
 -   [Git](https://git-scm.com/downloads){:target="_blank"}
+-   [Microsoft Whiteboard](https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app){:target="_blank"}
 
 ### CS Resources
 -   [Stack Overflow](https://www.stackoverflow.com){:target="_blank"}
