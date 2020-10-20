@@ -7,8 +7,13 @@
 
 ### NHS
 -   [Newport High School](https://bsd405.org/nhs/){:target="_blank"}
+-   [Newport High School](https://bsd405.org/nhs/){:target="_blank"}
 -   [Microsoft Virtual Academy](https://mva.microsoft.com/){:target="_blank"}
 -   [Physics Notes*](https://landgreen.github.io/physics/index.html){:target="_blank"}
+
+### NHS ACTVITIES
+-   [Newport High School Clubs](https://bsd405.org/nhs/knights/activities-clubs/){:target="_blank"}
+-   [Newport High School Sports](https://bsd405.org/nhs/knights/athletics/){:target= "_blank"}
 
 ## Table of Contents
 -   [CS Class Tools](#CS-Class-Tools)
