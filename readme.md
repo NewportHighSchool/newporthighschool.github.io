@@ -27,6 +27,7 @@
 -   [Networking](#Networking)
 -   [Design](#Design)
 -   [Linux](#Linux)
+-   [Hacktoberfest])(#Hacktoberfest)
 -   [Other](#Other)
 
 
@@ -42,7 +43,6 @@
 -   [Processing.org](https://processing.org/){:target="_blank"}
 -   [Netlify](https://www.netlify.com){:target="_blank"}
 -   [Git](https://git-scm.com/downloads){:target="_blank"}
--   [Microsoft Whiteboard](https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app){:target="_blank"}
 
 ### CS Resources
 -   [Stack Overflow](https://www.stackoverflow.com){:target="_blank"}
@@ -68,7 +68,7 @@
 -   [Chrome Extension Getting Started Guide](https://developer.chrome.com/extensions/getstarted){:target="_blank"}
 
 ### AP
--   [AP Website](https://apstudents.collegeboard.org/){:target="_blank"}
+-   [Localhost](http://localhost/){:target="_blank"}
 
 ### Arduino
 -   [oomlout](http://oomlout.com/oom.php/){:target="_blank"}
@@ -102,7 +102,6 @@
 -   [How to use Git and Github Video Tutorials](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV){:target="_blank"}
 -   [Google Launchpad Accelerators](https://developers.google.com/programs/launchpad/accelerators/){:target="_blank"}
 -   [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851){:target="_blank"}
--   [Hacktoberfest](https://hacktoberfest.digitalocean.com/){:target="_blank"}
 
 ### Robotics
 -   [Localhost](http://localhost/){:target="_blank"}
@@ -123,6 +122,11 @@
 ### Linux
 -   [Linux Tutorial Index](http://www.yolinux.com/TUTORIALS/){:target="_blank"}
 -   [PacVIM](https://www.ostechnix.com/pacvim-a-cli-game-to-learn-vim-commands/){:target="_blank}
+
+### Hacktoberfest
+-   [Hacktoberfest](https://hacktoberfest.digitalocean.com/){:target="_blank"}
+-   [Beginner Repository](https://github.com/haiku/haiku){:target="_blank"}
+-   [Pull Request Video](https://www.youtube.com/watch?v=rgbCcBNZcdQ){:target="_blank"}
 
 ### Other
 -   [Intern Supply](https://intern.supply/){:target="_blank"}
