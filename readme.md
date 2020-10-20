@@ -67,7 +67,7 @@
 -   [Chrome Extension Getting Started Guide](https://developer.chrome.com/extensions/getstarted){:target="_blank"}
 
 ### AP
--   [Localhost](http://localhost/){:target="_blank"}
+-   [AP Website](https://apstudents.collegeboard.org/){:target="_blank"}
 
 ### Arduino
 -   [oomlout](http://oomlout.com/oom.php/){:target="_blank"}
