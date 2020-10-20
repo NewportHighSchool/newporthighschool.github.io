@@ -32,7 +32,7 @@
 -   [Networking](#Networking)
 -   [Design](#Design)
 -   [Linux](#Linux)
--   [Hacktoberfest])(#Hacktoberfest)
+-   [Hacktoberfest](#Hacktoberfest)
 -   [Other](#Other)
 
 
