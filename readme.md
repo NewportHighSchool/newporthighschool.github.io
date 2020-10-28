@@ -1,4 +1,3 @@
-###
 ### NHS CS 
 -   [CS Edhesive](https://intro.edhesive.com/){:target="_blank"}
 -   [Mr. Walker's Classroom Blog](http://mrwalker.learnbydoing.org/){:target="_blank"}
