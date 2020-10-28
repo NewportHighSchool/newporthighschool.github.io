@@ -1,6 +1,7 @@
 
 ### NHS CS 
 -   [CS Edhesive](https://intro.edhesive.com/){:target="_blank"}
+![NHS Virtual Class Schedule](NHS_Virtual_Class_Schedule.png)
 -   [Mr. Walker's Classroom Blog](http://mrwalker.learnbydoing.org/){:target="_blank"}
 -   [NHS CS Course Descriptions](http://www.google.com/){:target="_blank"}
 -   [CS Processing Activity](http://processing.learnbydoing.org/){:target="_blank"}
