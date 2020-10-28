@@ -1,16 +1,14 @@
 
 ### NHS CS 
 -   [CS Edhesive](https://intro.edhesive.com/){:target="_blank"}
--   [NHS Virtual Class Schedule](https://newporthighschool.github.io/NHS_Virtual_Class_Schedule.png){:target="_blank"}
 -   [Mr. Walker's Classroom Blog](http://mrwalker.learnbydoing.org/){:target="_blank"}
 -   [NHS CS Course Descriptions](http://www.google.com/){:target="_blank"}
 -   [CS Processing Activity](http://processing.learnbydoing.org/){:target="_blank"}
 
 ### NHS
+-   [NHS Virtual Class Schedule](https://newporthighschool.github.io/NHS_Virtual_Class_Schedule.png){:target="_blank"}
 -   [Newport High School](https://bsd405.org/nhs/){:target="_blank"}
 -   [Newport High School](https://bsd405.org/nhs/){:target="_blank"}
--   [Microsoft Virtual Academy](https://mva.microsoft.com/){:target="_blank"}
--   [Physics Notes*](https://landgreen.github.io/physics/index.html){:target="_blank"}
 
 ### NHS ACTVITIES
 -   [Newport High School Clubs](https://bsd405.org/nhs/knights/activities-clubs/){:target="_blank"}
@@ -158,10 +156,14 @@
 -   [Convert Anything to Anything](https://cloudconvert.com/){:target="_blank"}
 -   [Explore.org Live Cams](https://explore.org/livecams/explore-all-cams/decorah-eagles){:target="_blank"}
 -   [Developers Swag](https://devswag.io/){:target="_blank"}
--   [Localhost](http://localhost/){:target="_blank"}
 -   [w3schools](https://www.w3schools.com){:target="_blank"}
 -   [DEV Community](https://dev.to/){:target="_blank"}
 -   [Why Study Computer Science?](https://www.depauw.edu/academics/departments-programs/computer-science/why-study-computer-science/){:target="_blank"}
 -   [Stack Overflow](https://stackoverflow.com/){:target="_blank"}
 -   [Repl.it](https://repl.it/){:target="_blank"}
 -   [Hour of code](https://hourofcode.com/us/){"target="_blank"}
+-   [Microsoft Virtual Academy](https://mva.microsoft.com/){:target="_blank"}
+-   [Physics Notes*](https://landgreen.github.io/physics/index.html){:target="_blank"}
+
+### Footnote
+-   [Localhost](http://localhost/){:target="_blank"}
