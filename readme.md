@@ -163,4 +163,4 @@
 -   [Why Study Computer Science?](https://www.depauw.edu/academics/departments-programs/computer-science/why-study-computer-science/){:target="_blank"}
 -   [Stack Overflow](https://stackoverflow.com/){:target="_blank"}
 -   [Repl.it](https://repl.it/){:target="_blank"}
-    [Hour of code](https://hourofcode.com/us/){"target="_blank"}
+-   [Hour of code](https://hourofcode.com/us/){"target="_blank"}
