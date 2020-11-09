@@ -6,6 +6,7 @@
 
 ### NHS
 -   [NHS Virtual Class Schedule](https://newporthighschool.github.io/NHS_Virtual_Class_Schedule.png){:target="_blank"}
+-   [NHS Calendar] (https://bsd405.org/nhs/resources/calendar/){:target="_blank"}
 -   [Newport High School Web Site](https://bsd405.org/nhs/){:target="_blank"}
 
 ### NHS ACTVITIES
