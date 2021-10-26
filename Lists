@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      p {
+        color: darkgoldenrod;
+        font-size:20px;
+        text-align: center;
+        margin: 10px;
+      }
+      h1 {
+        font-weight: lighter;
+        text-decoration: overline;
+        font-size:35;
+        color:brown;
+        margin:10px;
+      }
+
+      ul {
+        font-size:20px;
+        color: dimgrey;
+        background-color: rgb(223, 242, 235);
+        margin:10px;
+      }
+
+      ol {
+        font-size:18px;
+      }
+
+      body {
+        background: gainsboro;
+        border-style:dotted;
+        border-radius:10px;
+      }
+      img{
+       float:right; 
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Different Breeds of Dogs</h1>
+    <p>Dogs are cute in general, but there are different types and breeds of dogs. The list of the type of dog breeds goes on and on which is endless, yet there is a variety of dogs that share the same cuteness.You might have a dog at your home that you adore everyday!</p>
+      <p>Here is a list of the most common breeds of dogs:</p>
+    <ul>
+      <li>German Shepard</li>
+      <li>Labrador Retriever</li>
+      <li>Siberian Husky</li>
+      <li>Golden Retriever</li>
+      <li>Bulldog</li>
+      <li>Pomeranian</li>
+      <li>Poodle</li>
+      <li>Shiba Inu</li>
+      <li>Beagle</li>
+      <li>Chihuahua</li>
+    </ul>
+    <h1>Different Breeds of Cats</h1>
+    <p>Cats are also adorable, and like dogs, there are different types and breeds of cats, too. The list of cat breeds also is unlimited, yet there is a variety of cats that share the same attractiveness.You might also have a cat at your home that you find charming everyday!</p>
+    <p>Here is a list of the most common breeds of cats:</p>
+    <ul>
+      <li>Persian Cat</li>
+      <li>Bengal Cat</li>
+      <li>Maine Coon</li>
+      <li>Siamese Cat</li>
+      <li>Sphynx Cat</li>
+      <li>British Shorthair</li>
+      <li>Ragdoll</li>
+      <li>Munchkin Cat</li>
+      <li>Scottis Fold</li>
+      <li>Savanah Cat</li>
+    </ul>
+  </body>
+</html>
